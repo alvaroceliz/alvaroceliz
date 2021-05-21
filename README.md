@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Alvaro (he/him/his), studying at IE University ✨
+
 <!--
 **alvaroceliz/alvaroceliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
