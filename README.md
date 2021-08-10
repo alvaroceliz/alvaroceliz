@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm Alvaro (he/him/his), studying at IE University ✨
+I'm Alvaro (he/him/his)
+
+ - 🤗 I am a Business Graduate with a Master´s degree in Business Analytics and Big Data from IE University.
+ - 🖥️ Currently working as a Financial Consultant at Ernst&Young.
+ - 🏫 I am currently learning different techniques about Sport Analytics.
+ - ✉️  You can reach me: alvaroceliz@yahoo.es, alvaroceliz@alumni.ie.edu or [Linkedln](https://www.linkedin.com/in/alvarocelizllorente/).
+
 
 <!--
 **alvaroceliz/alvaroceliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
